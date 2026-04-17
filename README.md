@@ -1,6 +1,6 @@
 # Multi-Agent Fraud Detection System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776ab.svg)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-1.1.6-1c7c54.svg)](https://github.com/langchain-ai/langgraph)
 [![LangChain](https://img.shields.io/badge/LangChain-1.2.15-1c7c54.svg)](https://github.com/langchain-ai/langchain)
