@@ -1,0 +1,48 @@
+# ── Environment & secrets ────────────────────────────────────────────────────
+.env
+.env.local
+*.env
+
+# ── Competition data (not for redistribution) ────────────────────────────────
+train-validation/
+
+# ── Pipeline outputs ──────────────────────────────────────────────────────────
+outputs/
+thresholds/
+
+# ── Python runtime ────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Build / packaging ─────────────────────────────────────────────────────────
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# ── Testing & coverage ────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# ── macOS metadata ────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
